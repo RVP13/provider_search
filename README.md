@@ -1,2 +1,2 @@
 # provider_search
-Help Find HealthCare Providers within in rage of certain zips. 
+Help Find HealthCare Providers within rage of certain zips. 
